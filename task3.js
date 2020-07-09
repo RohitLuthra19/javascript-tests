@@ -35,6 +35,5 @@ function totalTimeTakenToDeliverPackage(input) {
         }
     })
 
-
     return [totalTime, haltsCount, longerStayLocationName]
 }
